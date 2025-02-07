@@ -1,5 +1,134 @@
-# organisational unit for directores department
+# LDIF file for organizational units
+
+# Organizational unit for directores
 dn: ou=directores,dc=example,dc=org
 changetype: add
 objectClass: organizationalUnit
 ou: directores
+
+# Organizational unit for profesores
+dn: ou=profesores,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesores
+
+# Organizational unit for alumnos
+dn: ou=alumnos,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: alumnos
+
+# Organizational unit for personalnodocente
+dn: ou=personalnodocente,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: personalnodocente
+
+# Organizational unit for eso1
+dn: ou=eso1,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: eso1
+
+# Organizational unit for eso2
+dn: ou=eso2,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: eso2
+
+# Organizational unit for eso3
+dn: ou=eso3,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: eso3
+
+# Organizational unit for eso4
+dn: ou=eso4,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: eso4
+
+# Organizational unit for bach1ciencias
+dn: ou=bach1ciencias,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: bach1ciencias
+
+# Organizational unit for bach1humanidades
+dn: ou=bach1humanidades,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: bach1humanidades
+
+# Organizational unit for bach2ciencias
+dn: ou=bach2ciencias,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: bach2ciencias
+
+# Organizational unit for bach2humanidades
+dn: ou=bach2humanidades,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: bach2humanidades
+
+# Organizational unit for profesoreseso
+dn: ou=profesoreseso,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoreseso
+
+# Organizational unit for profesoresbach
+dn: ou=profesoresbach,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoresbach
+
+# Organizational unit for profesoreseso1
+dn: ou=profesoreseso1,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoreseso1
+
+# Organizational unit for profesoreseso2
+dn: ou=profesoreseso2,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoreseso2
+
+# Organizational unit for profesoreseso3
+dn: ou=profesoreseso3,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoreseso3
+
+# Organizational unit for profesoreseso4
+dn: ou=profesoreseso4,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoreseso4
+
+# Organizational unit for profesoresbach1ciencias
+dn: ou=profesoresbach1ciencias,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoresbach1ciencias
+
+# Organizational unit for profesoresbach1humanidades
+dn: ou=profesoresbach1humanidades,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoresbach1humanidades
+
+# Organizational unit for profesoresbach2ciencias
+dn: ou=profesoresbach2ciencias,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoresbach2ciencias
+
+# Organizational unit for profesoresbach2humanidades
+dn: ou=profesoresbach2humanidades,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoresbach2humanidades
+
